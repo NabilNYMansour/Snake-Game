@@ -1,3 +1,8 @@
+/* Author: Nabil Mansour
+Date: 2020-12-21
+Description:
+This is a snake game. Will assume you have windows running */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
